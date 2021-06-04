@@ -1,0 +1,29 @@
+.Searcher{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Input{
+
+    margin-right: 10px;
+}
+
+.CharacterSearch{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+  
+}
+
+.Character{
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+      
+}
